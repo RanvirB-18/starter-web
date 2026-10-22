@@ -16,3 +16,7 @@ Main purpose to provide simple examples for git training
 Simple web deployment to any server
 
 ## How to contribute
+
+### Copyright
+
+Copyright stuff 2024
