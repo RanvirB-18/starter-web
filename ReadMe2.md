@@ -17,6 +17,8 @@ Simple web deployment to any server
 
 ## How to contribute
 
+Please fork repo and issues pull for review 
+
 ### Copyright
 
 Copyright stuff 2024
