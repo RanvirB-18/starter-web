@@ -1,7 +1,8 @@
 # Starter Web Repo
 
-SImple repo
-for rebasing test
+Simple Repo
+Rebase training
+More chnages from feature branch
 ## Purpose
 
 Sample website with plenty of files for demos
